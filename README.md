@@ -3,6 +3,7 @@
 ## 🔹 Project Title  
 **Blinkit – India’s Last Minute App**  
 
+## 🔹 Dashboard
 ![image alt](https://github.com/JosetinaTreaslin/Blinkit_PBI/blob/a5da7a47fb7b0d5196aab6e23431480a29610dd2/Blink-IT-dashboard.png)
 
 ## 🔹 Objective  
